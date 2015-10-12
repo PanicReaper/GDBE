@@ -1,0 +1,28 @@
+New log file opened at Mon Oct 12 22:36:52 CEST 2015 by 832@Erwan-HP
+Taking next connection to: 64911
+New client attempting to connect on port: 64912-64911
+  Address = /192.168.0.12:64911
+This client on port 64912 has uuid 695f35ed-b049-4bda-b37d-72049e8ed400 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-695f35ed-b049-4bda-b37d-72049e8ed400
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 64911
